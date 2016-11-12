@@ -22,10 +22,10 @@
   "scripts": {
   },
   "dependencies": {
-    "vue-m-picker": "^0.0.5",
-    "vue": "^2.0.2"
+    "vue-m-picker": "^1.0.0"
   },
   "devDependencies": {
+    "vue": "^2.0.5",
     "babel-core": "^6.9.0",
     "babel-loader": "^6.2.4",
     "babel-plugin-transform-runtime": "^6.9.0",
